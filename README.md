@@ -7,3 +7,4 @@
    abstraction(http://www.visionsdeveloper.com/tutorial/java/java-abstraction.jsp)
    ////encapsulation(http://brevitaz.com/encapsulation-example-benefits-java/)////"the interface to a class should reveal as little as possible about its inner workings"
 6. data structure(Vector, Stack, Hashtable(Dictionary), Enumeration, Bitset
+7. generics <E>
