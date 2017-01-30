@@ -9,3 +9,4 @@
 6. data structure(Vector, Stack, Hashtable(Dictionary), Enumeration, Bitset
 7. generics <E>
 8. networking client and server (low level). example from tute. doesn't work as smooth as Python networking 
+9. threading(implement runnable and extends thread) two ways
